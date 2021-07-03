@@ -29,3 +29,7 @@ src
 ## Contributor
 
 - Mike
+
+## License
+
+Unlicense
